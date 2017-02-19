@@ -1,0 +1,27 @@
+{
+  "name": "ishex",
+  "version": "1.0.0",
+  "description": "Tells you if a string is a valid hexadecimal number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonmowat/isHex.git"
+  },
+  "keywords": [
+    "ishex",
+    "hexadecimal",
+    "color",
+    "colour",
+    "hexcode",
+    "code"
+  ],
+  "author": "Brandon Mowat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonmowat/isHex/issues"
+  },
+  "homepage": "https://github.com/brandonmowat/isHex#readme"
+}
