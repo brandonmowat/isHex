@@ -1,6 +1,6 @@
 {
   "name": "ishex",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Tells you if a string is a valid hexadecimal number.",
   "main": "index.js",
   "scripts": {
