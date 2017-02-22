@@ -10,7 +10,9 @@ function testSuite() {
     assertEquals(IsHex.isHex("ggdeqwd2d2g"), false) &&
     assertEquals(IsHex.isHex("fFfFfF"), true) &&
     assertEquals(IsHex.isHexColor("1FfeFf"), true) &&
+    assertEquals(IsHex.isHexColor("#1FfeFf"), true) &&
     assertEquals(IsHex.isHexColor("effefg"), false) &&
+    assertEquals(IsHex.isHexColor("#effefg"), false) &&
     assertEquals(IsHex.isHexColor("geffefg"), false)?"All tests passed👌🏻":"failed..."
 }
 
